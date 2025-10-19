@@ -43,7 +43,7 @@ A comprehensive system for reclaiming agency over digital identity through struc
 
 This project includes comprehensive documentation for the Algorithmic Redirection Framework:
 
-- **[Algorithmic Redirection Framework Paper](docs/system-architecture-academic.md)** - Complete research paper documenting the five-layer algorithmic redirection framework, LLM integration patterns, and theoretical foundations
+- **[System Architecture Documentation](docs/system-architecture-academic.md)** - Complete documentation of the five-layer algorithmic redirection framework, LLM integration patterns, and theoretical foundations
 - **[Technical Specifications](docs/technical-specifications.md)** - Detailed technical requirements, API specifications, database schema, and performance metrics
 - **[Implementation Guide](docs/implementation-guide.md)** - Step-by-step implementation instructions, code examples, and deployment procedures
 
@@ -73,17 +73,13 @@ This framework is designed for:
 - **Professional Development**: Personal branding, career transition support, digital presence optimization
 - **Organizational Use**: Employee digital identity management, brand consistency, thought leadership development
 
-## Citation
+## Documentation
 
-If you use this framework in academic work, please cite:
-
-```
-Roy, J. (2024). Algorithmic Redirection Framework: A Five-Layer Architecture for Digital Identity Agency Through Large Language Model Integration. [Institution/Journal]. [DOI/URL]
-```
+This framework is documented in the included documentation files. The system architecture and implementation details are provided for reference and development purposes.
 
 ## Contributing
 
-We welcome contributions to improve the framework. Please see our contributing guidelines and ensure all academic documentation is maintained with appropriate rigor.
+We welcome contributions to improve the framework.
 
 ## License
 
