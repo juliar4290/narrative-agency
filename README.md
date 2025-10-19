@@ -1,12 +1,12 @@
 # Narrative Agency: 5-Layer Digital Identity System
 
-A comprehensive system for reclaiming agency over digital identity through structured data gathering, narrative analysis, and strategic implementation.
+A system for reclaiming agency over digital identity through structured data gathering, narrative analysis, and strategic implementation.
 
 ## System Architecture
 
 ### 1. Data-gathering / Audit Layer
 **Function**: Crawls and aggregates public presence across platforms
-- LinkedIn, personal sites, resumes, news mentions, GitHub
+- Social media, personal sites, resumes, news mentions, GitHub
 - Outputs structured dataset: name, role, keywords, topics, sentiment, visibility metrics
 - **LLM Role**: General LLM summarizes patterns via prompt engineering
 
@@ -31,17 +31,11 @@ A comprehensive system for reclaiming agency over digital identity through struc
 **Function**: Periodically re-audits search results and platform data
 - Tracks narrative shifts over time
 - **LLM Role**: Interprets reports, explains if old narratives are re-emerging
-
-## Getting Started
-
-1. Clone this repository
-2. Install dependencies: `npm install`
-3. Set up environment variables
-4. Run the system: `npm start`
+  
 
 ## Algorithmic Redirection Framework Documentation
 
-This project includes comprehensive documentation for the Algorithmic Redirection Framework:
+This project includes documentation for the Algorithmic Redirection Framework:
 
 - **[System Architecture Documentation](docs/system-architecture-academic.md)** - Complete documentation of the five-layer algorithmic redirection framework, LLM integration patterns, and theoretical foundations
 - **[Technical Specifications](docs/technical-specifications.md)** - Detailed technical requirements, API specifications, database schema, and performance metrics
@@ -65,6 +59,7 @@ narrative-agency/
 └── examples/              # Usage examples
 ```
 
+<<<<<<< HEAD
 ## Research Applications
 
 This framework is designed for:
@@ -82,5 +77,7 @@ This framework is documented in the included documentation files. The system arc
 We welcome contributions to improve the framework.
 
 ## License
+=======
+>>>>>>> 538dacdc0b44d1f86b08c4c7637dbc6d5334a296
 
 MIT License
