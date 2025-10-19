@@ -1,0 +1,35 @@
+{
+  "name": "narrative-agency",
+  "version": "1.0.0",
+  "description": "Algorithmic Redirection Framework for digital identity agency",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "audit": "node src/data-gathering/index.js",
+    "coach": "node src/narrative-analysis/index.js",
+    "strategy": "node src/strategy-engine/index.js",
+    "implement": "node src/implementation/index.js",
+    "monitor": "node src/monitoring/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "algorithmic-redirection",
+    "digital-identity",
+    "narrative-framework",
+    "llm",
+    "identity-management"
+  ],
+  "author": "Julia Roy",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.24.3",
+    "openai": "^4.0.0",
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.5.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
