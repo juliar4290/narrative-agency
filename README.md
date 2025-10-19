@@ -31,15 +31,6 @@ A system for reclaiming agency over digital identity through structured data gat
 **Function**: Periodically re-audits search results and platform data
 - Tracks narrative shifts over time
 - **LLM Role**: Interprets reports, explains if old narratives are re-emerging
-  
-
-## Algorithmic Redirection Framework Documentation
-
-This project includes documentation for the Algorithmic Redirection Framework:
-
-- **[System Architecture Documentation](docs/system-architecture-academic.md)** - Complete documentation of the five-layer algorithmic redirection framework, LLM integration patterns, and theoretical foundations
-- **[Technical Specifications](docs/technical-specifications.md)** - Detailed technical requirements, API specifications, database schema, and performance metrics
-- **[Implementation Guide](docs/implementation-guide.md)** - Step-by-step implementation instructions, code examples, and deployment procedures
 
 ## Project Structure
 
@@ -51,33 +42,10 @@ narrative-agency/
 │   ├── strategy-engine/    # Layer 3: Redirection planning
 │   ├── implementation/     # Layer 4: Platform updates
 │   └── monitoring/         # Layer 5: Feedback and tracking
-├── docs/                  # Academic and technical documentation
-│   ├── system-architecture-academic.md
-│   ├── technical-specifications.md
-│   └── implementation-guide.md
 ├── prompts/               # LLM system prompts
 └── examples/              # Usage examples
 ```
 
-<<<<<<< HEAD
-## Research Applications
-
-This framework is designed for:
-
-- **Academic Research**: Digital identity studies, narrative analysis, human-AI interaction research
-- **Professional Development**: Personal branding, career transition support, digital presence optimization
-- **Organizational Use**: Employee digital identity management, brand consistency, thought leadership development
-
-## Documentation
-
-This framework is documented in the included documentation files. The system architecture and implementation details are provided for reference and development purposes.
-
-## Contributing
-
-We welcome contributions to improve the framework.
-
 ## License
-=======
->>>>>>> 538dacdc0b44d1f86b08c4c7637dbc6d5334a296
 
 MIT License
